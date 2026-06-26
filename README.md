@@ -2,7 +2,7 @@
 
 > A community-maintained archive of past ETH Zürich entrance exam (*Aufnahmeprüfung*) materials, including written exams and the only collection of oral exam protocols available anywhere online.
 
-This repository is the backend for [janiks.me](https://janiks.me/), where candidates preparing for the ETH Zürich entrance exam can find past written exams, oral exam protocols, pass-rate statistics, and preparation tips.
+This repository is the backend for [janiks.me](https://janiks.me/projects/eth/entrance_exam/), where candidates preparing for the ETH Zürich entrance exam can find past written exams, oral exam protocols, pass-rate statistics, and preparation tips.
 
 ## About this project
 
